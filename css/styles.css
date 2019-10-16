@@ -1,4 +1,19 @@
 .intro {
   font-family: cursive;
-  
+}
+
+.important {
+  font-weight: bolder;
+}
+
+.unimportant {
+  font-style: italic;
+}
+
+.make-red {
+  color: red;
+}
+
+.make-blue {
+  color: blue;
 }
